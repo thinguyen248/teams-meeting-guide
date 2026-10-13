@@ -1,0 +1,76 @@
+﻿Ma chu de,Buoc,Ten buoc,Duong dan anh goi y,Tinh trang
+login,1,Mở ứng dụng Teams,img/login/01.png,Chua them
+login,2,Chọn tài khoản công ty,img/login/02.png,Chua them
+login,3,Xác thực đăng nhập,img/login/03.png,Chua them
+login,4,Kiểm tra đăng nhập,img/login/04.png,Chua them
+schedule,1,Mở Lịch trong Teams,img/schedule/01.png,Chua them
+schedule,2,Tạo lịch họp mới,img/schedule/02.png,Chua them
+schedule,3,Điền thông tin cuộc họp,img/schedule/03.png,Chua them
+schedule,4,Bật cuộc họp trực tuyến,img/schedule/04.png,Chua them
+schedule,5,Lưu và gửi lời mời,img/schedule/05.png,Chua them
+instant,1,Mở Calendar / Lịch,img/instant/01.png,Chua them
+instant,2,Chọn Meet now,img/instant/02.png,Chua them
+instant,3,Đặt tên và lấy liên kết,img/instant/03.png,Chua them
+instant,4,Bắt đầu cuộc họp,img/instant/04.png,Chua them
+instant,5,Mời người tham dự,img/instant/05.png,Chua them
+share-link,1,Mở cuộc họp đã tạo,img/share-link/01.png,Chua them
+share-link,2,Sao chép liên kết,img/share-link/02.png,Chua them
+share-link,3,Gửi đến người tham dự,img/share-link/03.png,Chua them
+share-link,4,Dự phòng bằng ID và Passcode,img/share-link/04.png,Chua them
+join-pc,1,Mở liên kết được mời,img/join-pc/01.png,Chua them
+join-pc,2,Chọn cách mở cuộc họp,img/join-pc/02.png,Chua them
+join-pc,3,Chọn danh tính tham gia,img/join-pc/03.png,Chua them
+join-pc,4,Kiểm tra mic và camera,img/join-pc/04.png,Chua them
+join-pc,5,Bấm Join now,img/join-pc/05.png,Chua them
+join-guest,1,Bấm link cuộc họp,img/join-guest/01.png,Chua them
+join-guest,2,Chọn cách vào không đăng nhập,img/join-guest/02.png,Chua them
+join-guest,3,Nhập tên hiển thị,img/join-guest/03.png,Chua them
+join-guest,4,Kiểm tra camera/micro,img/join-guest/04.png,Chua them
+join-guest,5,Chờ người tổ chức duyệt (nếu có),img/join-guest/05.png,Chua them
+join-android,1,Cài Microsoft Teams,img/join-android/01.png,Chua them
+join-android,2,Mở liên kết cuộc họp,img/join-android/02.png,Chua them
+join-android,3,Chọn cách tham gia,img/join-android/03.png,Chua them
+join-android,4,Nhập tên và cho phép quyền,img/join-android/04.png,Chua them
+join-android,5,Chuẩn bị và tham gia,img/join-android/05.png,Chua them
+join-android,6,Chờ duyệt nếu được yêu cầu,img/join-android/06.png,Chua them
+join-ios,1,Cài Microsoft Teams,img/join-ios/01.png,Chua them
+join-ios,2,Nhấn vào link mời họp,img/join-ios/02.png,Chua them
+join-ios,3,Chọn tham gia với tài khoản hoặc khách,img/join-ios/03.png,Chua them
+join-ios,4,Nhập tên và cấp quyền thiết bị,img/join-ios/04.png,Chua them
+join-ios,5,Kiểm tra trước khi vào họp,img/join-ios/05.png,Chua them
+join-ios,6,Đợi được tiếp nhận,img/join-ios/06.png,Chua them
+join-id,1,Lấy Meeting ID và Passcode,img/join-id/01.png,Chua them
+join-id,2,Mở Teams Calendar,img/join-id/02.png,Chua them
+join-id,3,Nhập mã cuộc họp,img/join-id/03.png,Chua them
+join-id,4,Kiểm tra và vào họp,img/join-id/04.png,Chua them
+controls,1,Bật hoặc tắt micro,img/controls/01.png,Chua them
+controls,2,Bật hoặc tắt camera,img/controls/02.png,Chua them
+controls,3,Xem danh sách người tham dự,img/controls/03.png,Chua them
+controls,4,Rời cuộc họp,img/controls/04.png,Chua them
+share-screen,1,Chọn Share / Chia sẻ,img/share-screen/01.png,Chua them
+share-screen,2,Chọn nội dung cần trình chiếu,img/share-screen/02.png,Chua them
+share-screen,3,Chia sẻ cả âm thanh (nếu cần),img/share-screen/03.png,Chua them
+share-screen,4,Kiểm tra nội dung đang phát,img/share-screen/04.png,Chua them
+share-screen,5,Dừng trình chiếu,img/share-screen/05.png,Chua them
+background,1,Trước khi tham gia,img/background/01.png,Chua them
+background,2,Chọn hiệu ứng phù hợp,img/background/02.png,Chua them
+background,3,Thay đổi trong lúc họp,img/background/03.png,Chua them
+background,4,Áp dụng hiệu ứng,img/background/04.png,Chua them
+lobby,1,Mở danh sách người tham dự,img/lobby/01.png,Chua them
+lobby,2,Tìm mục chờ duyệt,img/lobby/02.png,Chua them
+lobby,3,Cho phép hoặc từ chối,img/lobby/03.png,Chua them
+lobby,4,Điều chỉnh chính sách phòng chờ,img/lobby/04.png,Chua them
+record,1,Kiểm tra quyền ghi hình,img/record/01.png,Chua them
+record,2,Bắt đầu ghi,img/record/02.png,Chua them
+record,3,Thông báo đến người tham dự,img/record/03.png,Chua them
+record,4,Dừng ghi và xem lại,img/record/04.png,Chua them
+mobile-share,1,Vào cuộc họp trong ứng dụng,img/mobile-share/01.png,Chua them
+mobile-share,2,Mở chức năng chia sẻ,img/mobile-share/02.png,Chua them
+mobile-share,3,Chọn nội dung cần chia sẻ,img/mobile-share/03.png,Chua them
+mobile-share,4,Cho phép phát màn hình,img/mobile-share/04.png,Chua them
+mobile-share,5,Dừng chia sẻ,img/mobile-share/05.png,Chua them
+troubleshoot,1,Không vào được cuộc họp,img/troubleshoot/01.png,Chua them
+troubleshoot,2,Chờ ở phòng đợi quá lâu,img/troubleshoot/02.png,Chua them
+troubleshoot,3,Teams yêu cầu Sign in hoặc mã OTP,img/troubleshoot/03.png,Chua them
+troubleshoot,4,Không có tiếng / không có hình,img/troubleshoot/04.png,Chua them
+troubleshoot,5,Không thấy lịch họp hoặc nút Meet now,img/troubleshoot/05.png,Chua them
