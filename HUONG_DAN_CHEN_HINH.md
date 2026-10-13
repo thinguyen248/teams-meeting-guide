@@ -64,3 +64,4 @@ Không chép đè file `index.html` ở webroot, để giữ lại chỗ cho tra
 - Không cần sửa `index.html` để thêm ảnh mới.
 - Danh sách tất cả bước và đường dẫn đề xuất nằm ở `DANH_SACH_75_BUOC.csv`.
 - Trước khi chia sẻ ra Internet, hãy che thông tin nội bộ, địa chỉ email cá nhân, ID cuộc họp và tên học viên trên screenshot.
+Updated documentation
