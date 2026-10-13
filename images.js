@@ -127,7 +127,7 @@ window.TEAMS_STEP_IMAGES = {
     // 3. Chọn tham gia với tài khoản hoặc khách
     // 3: { src: "img/join-ios/03.png", caption: "Chọn tham gia với tài khoản hoặc khách" },
     // 4. Nhập tên và cấp quyền thiết bị
-    // 4: { src: "img/join-ios/04.png", caption: "Nhập tên và cấp quyền thiết bị" },
+       4: { src: "img/join-ios/04.png", caption: "Nhập tên và cấp quyền thiết bị" },
     // 5. Kiểm tra trước khi vào họp
     // 5: { src: "img/join-ios/05.png", caption: "Kiểm tra trước khi vào họp" },
     // 6. Đợi được tiếp nhận
