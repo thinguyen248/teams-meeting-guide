@@ -121,7 +121,7 @@ window.TEAMS_STEP_IMAGES = {
   // Tham gia bằng iPhone / iPad
   "join-ios": {
     // 1. Cài Microsoft Teams
-    // 1: { src: "img/join-ios/01.png", caption: "Cài Microsoft Teams" },
+       1: { src: "img/join-ios/01.png", caption: "Cài Microsoft Teams" },
     // 2. Nhấn vào link mời họp
     // 2: { src: "img/join-ios/02.png", caption: "Nhấn vào link mời họp" },
     // 3. Chọn tham gia với tài khoản hoặc khách
